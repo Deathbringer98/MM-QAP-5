@@ -1,0 +1,26 @@
+[
+  { "race": "Terran",
+    "name": "Jim Raynor",
+    "age": 35,
+    "homePlanet": "Mar Sara" },
+
+  { "race": "Protoss",
+    "name": "Zeratul",
+    "age": 245,
+    "homePlanet": "Aiur" },
+
+  { "race": "Zerg",
+    "name": "Kerrigan",
+    "age": 28,
+    "homePlanet": "Zerus" },
+
+  { "race": "Terran",
+    "name": "Sarah Kerrigan",
+    "age": 30,
+    "homePlanet": "Korhal" },
+
+  { "race": "Protoss",
+    "name": "Artanis",
+    "age": 317,
+    "homePlanet": "Aiur" }
+]
